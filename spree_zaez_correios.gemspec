@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_zaez_correios'
+  s.name        = 'spree_zaez_correios'
   s.version     = '1.1.0'
   s.summary     = "Implements diverse functions in order to enable the use of services from Brazil's Correios in Spree Commerce"
   s.description = s.summary
